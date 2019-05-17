@@ -1,0 +1,4 @@
+beautifulsoup4==4.7.1
+bs4==0.0.1
+soupsieve==1.9.1
+urwid==2.0.1
