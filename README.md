@@ -12,3 +12,4 @@ $ chmod +x rs.py
 ```sh
 $ ./rs.py --search rammstein
 ```
+[rutor]: <http://rutor.is>
